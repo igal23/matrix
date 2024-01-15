@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Challenge/bin/Debug/net8.0
+/Challenge/obj
+/ChallengeTests/obj
+/ChallengeTests/bin/Debug/net8.0
+/MatrixChallenge/.vs
+/.vs
